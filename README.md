@@ -1,27 +1,134 @@
-# 💫 About Me:
-```markdown<br><h1 align="center">Hi there, I'm Mahesa Putra 👋</h1><br><br><p align="center"><br>  <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b><br></p><br><br><p align="center"><br>  I enjoy building scalable backend systems, designing clean APIs, and exploring AI-powered applications.<br></p><br><br>---<br><br>## 👨‍💻 About Me<br><br>I'm a backend developer passionate about creating reliable, maintainable, and scalable software.<br><br>My primary interests include:<br><br>- 🚀 Backend Development<br>- ⚡ REST API Design<br>- 🏗️ Software Architecture<br>- 🗄️ Database Design<br>- 🤖 AI Integration<br>- ☁️ Cloud & DevOps (Learning)<br><br>I enjoy learning new technologies, solving challenging problems, and building projects that strengthen my software engineering skills.<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Languages<br><br>- Go<br>- Python<br>- Java<br>- JavaScript<br>- PHP<br>- SQL<br><br>### Frameworks<br><br>- Gin<br>- ElysiaJS<br>- FastAPI<br>- Flask<br>- Laravel<br>- Spring Boot<br><br>### Databases<br><br>- PostgreSQL<br>- MySQL<br>- SQLite<br><br>### Tools<br><br>- Docker<br>- Git<br>- Linux<br>- Postman<br>- VS Code<br><br>---<br><br>## 🌱 Currently Learning<br><br>- Distributed Systems<br>- System Design<br>- Cloud Computing<br>- Kubernetes<br>- AI Agents<br>- High-Performance Backend Development<br><br>---<br><br>## 🎯 Current Goals<br><br>- Build production-ready backend services<br>- Contribute to open-source projects<br>- Learn advanced software architecture<br>- Explore AI agent development<br>- Continuously improve as a software engineer<br><br>---<br><br>## 📫 Connect With Me<br><br>- GitHub: https://github.com/your-username<br>- LinkedIn: https://linkedin.com/in/your-profile<br><br>---<br><br><p align="center"><br>Thanks for visiting my profile! ⭐<br></p><br><br>
+<h1 align="center">Hi there, I'm Mahesa Putra 👋</h1>
 
+<p align="center">
+  <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
+</p>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mahesaPinuntun) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mahesaPinuntun) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bXUeTPy8qa) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@4SEHAM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa.crafter@gmail.com) 
+<p align="center">
+  I enjoy building scalable backend systems, designing clean APIs, and exploring AI-powered applications.
+</p>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mahesaPinuntun&theme=neon&hide_border=false)<br/>
+---
+
+## 👨‍💻 About Me
+
+I'm a backend developer passionate about creating reliable, maintainable, and scalable software.
+
+My primary interests include:
+
+- 🚀 Backend Development
+- ⚡ REST API Design
+- 🏗️ Software Architecture
+- 🗄️ Database Design
+- 🤖 AI Integration
+- ☁️ Cloud & DevOps (Learning)
+
+I enjoy learning new technologies, solving challenging problems, and building projects that strengthen my software engineering skills.
+
+---
+
+## 🌐 Socials
+
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mahesaPinuntun)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mahesaPinuntun)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bXUeTPy8qa)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@4SEHAM)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa.crafter@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=mahesaPinuntun&theme=neon&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=mahesaPinuntun&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+---
+
+## 🌱 Currently Learning
+
+- Distributed Systems
+- System Design
+- Cloud Computing
+- Kubernetes
+- AI Agents
+- High-Performance Backend Development
+
+---
+
+## 🎯 Current Goals
+
+- Build production-ready backend services
+- Contribute to open-source projects
+- Learn advanced software architecture
+- Explore AI agent development
+- Continuously improve as a software engineer
+
+---
+
+## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+---
+
+## 🔝 Top Contributed Repos
+
 ![](https://github-contributor-stats.vercel.app/api?username=mahesaPinuntun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mahesaPinuntun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Connect With Me
+
+- GitHub: [github.com/mahesaPinuntun](https://github.com/mahesaPinuntun)
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- Email: [mahesa.crafter@gmail.com](mailto:mahesa.crafter@gmail.com)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahesaPinuntun&color=0e75b6&style=flat" alt="profile views" />
+</p>
