@@ -44,7 +44,11 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 <br>
 <h1 align="center">SKILLS & CAPABILITIES</h1>
+
+
 ---
+
+
 ## 🗣️ Languages
 
 | Flag | Language | Level | Progress |
