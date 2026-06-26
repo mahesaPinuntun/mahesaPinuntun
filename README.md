@@ -75,13 +75,13 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Databases
@@ -124,12 +124,11 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 ---
 
 ## 🌱 Currently Learning
-
-- Distributed Systems
+- SOAP-API
+- GraphQL API
 - System Design
-- Cloud Computing
-- Kubernetes
-- AI Agents
+- Project Deployment
+- Program Optimizing
 - High-Performance Backend Development
 
 ---
@@ -179,3 +178,8 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahesaPinuntun&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+
+---
+---
+---
