@@ -30,9 +30,10 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 | Flag | Language | Level | Progress |
 |------|----------|-------|----------|
-| 🇮🇩 | **Indonesian** | Native | ██████████ 100% |
-| 🇬🇧 | **English** | Proficient | ████████░░ 80% |
-| 🇯🇵 | **Japanese (日本語)** | Learning · On going | ██░░░░░░░░ 20% |
+| ![ID](https://flagcdn.com/20x15/id.png) | **Indonesian** | Native | ██████████ 100% |
+| ![GB](https://flagcdn.com/20x15/gb.png) | **English** | Proficient | ████████░░ 80% |
+| ![JP](https://flagcdn.com/20x15/jp.png) | **Japanese (日本語)** | Learning · On going | ██░░░░░░░░ 20% |
+---
 ## 🌐 Socials
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mahesaPinuntun)
