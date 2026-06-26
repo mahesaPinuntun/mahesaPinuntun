@@ -37,6 +37,14 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
+## 🏛️ Architecture & Paradigms
+
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-0052CC?style=for-the-badge&logo=apache&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%23007ACC.svg?style=for-the-badge&logo=blueprint&logoColor=white)
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
