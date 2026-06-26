@@ -1,227 +1,27 @@
-# Hi, I'm Mahesa Putra 👋
+# 💫 About Me:
+```markdown<br><h1 align="center">Hi there, I'm Mahesa Putra 👋</h1><br><br><p align="center"><br>  <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b><br></p><br><br><p align="center"><br>  I enjoy building scalable backend systems, designing clean APIs, and exploring AI-powered applications.<br></p><br><br>---<br><br>## 👨‍💻 About Me<br><br>I'm a backend developer passionate about creating reliable, maintainable, and scalable software.<br><br>My primary interests include:<br><br>- 🚀 Backend Development<br>- ⚡ REST API Design<br>- 🏗️ Software Architecture<br>- 🗄️ Database Design<br>- 🤖 AI Integration<br>- ☁️ Cloud & DevOps (Learning)<br><br>I enjoy learning new technologies, solving challenging problems, and building projects that strengthen my software engineering skills.<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Languages<br><br>- Go<br>- Python<br>- Java<br>- JavaScript<br>- PHP<br>- SQL<br><br>### Frameworks<br><br>- Gin<br>- ElysiaJS<br>- FastAPI<br>- Flask<br>- Laravel<br>- Spring Boot<br><br>### Databases<br><br>- PostgreSQL<br>- MySQL<br>- SQLite<br><br>### Tools<br><br>- Docker<br>- Git<br>- Linux<br>- Postman<br>- VS Code<br><br>---<br><br>## 🌱 Currently Learning<br><br>- Distributed Systems<br>- System Design<br>- Cloud Computing<br>- Kubernetes<br>- AI Agents<br>- High-Performance Backend Development<br><br>---<br><br>## 🎯 Current Goals<br><br>- Build production-ready backend services<br>- Contribute to open-source projects<br>- Learn advanced software architecture<br>- Explore AI agent development<br>- Continuously improve as a software engineer<br><br>---<br><br>## 📫 Connect With Me<br><br>- GitHub: https://github.com/your-username<br>- LinkedIn: https://linkedin.com/in/your-profile<br><br>---<br><br><p align="center"><br>Thanks for visiting my profile! ⭐<br></p><br>```<br>
 
-<p align="center">
-  <a href="#-english">
-    <img src="https://img.shields.io/badge/🇺🇸%20English-0078D4?style=for-the-badge" />
-  </a>
-  <a href="#-bahasa-indonesia">
-    <img src="https://img.shields.io/badge/🇮🇩%20Indonesia-E31C23?style=for-the-badge" />
-  </a>
-  <a href="#-日本語">
-    <img src="https://img.shields.io/badge/🇯🇵%20日本語-BC002D?style=for-the-badge" />
-  </a>
-</p>
 
----
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mahesaPinuntun) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mahesaPinuntun) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bXUeTPy8qa) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@4SEHAM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa.crafter@gmail.com) 
 
-# 🇺🇸 English
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mahesaPinuntun&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahesaPinuntun&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-I'm a Backend Developer who enjoys designing scalable systems and solving real-world problems through software.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Currently, I'm focused on:
-
-- 🚀 Backend Development
-- ⚙️ REST API & Microservices
-- 🐹 Golang
-- 🐍 Python
-- ☕ Java
-- 🗄️ PostgreSQL & MySQL
-- 🤖 AI Integration
-- ☁️ Cloud & DevOps (Learning)
-
-I enjoy learning new technologies and building projects that improve my software engineering skills.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mahesaPinuntun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mahesaPinuntun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Tech Stack
-
-### Languages
-
-- Go
-- Python
-- Java
-- JavaScript
-- PHP
-- SQL
-
-### Frameworks
-
-- Gin
-- ElysiaJS
-- FastAPI
-- Flask
-- Laravel
-- Spring Boot
-
-### Database
-
-- PostgreSQL
-- MySQL
-- SQLite
-
-### Tools
-
-- Docker
-- Git
-- Linux
-- Postman
-- VS Code
-
----
-
-## Currently Learning
-
-- Distributed Systems
-- Software Architecture
-- Cloud Computing
-- Kubernetes
-- AI Agents
-- High Performance Backend
-
----
-
-# 🇮🇩 Bahasa Indonesia
-
-## Tentang Saya
-
-Saya adalah seorang Backend Developer yang senang membangun sistem yang scalable serta menyelesaikan permasalahan nyata melalui perangkat lunak.
-
-Saat ini saya berfokus pada:
-
-- 🚀 Backend Development
-- ⚙️ REST API & Microservices
-- 🐹 Golang
-- 🐍 Python
-- ☕ Java
-- 🗄️ PostgreSQL & MySQL
-- 🤖 Integrasi AI
-- ☁️ Cloud & DevOps (Sedang Belajar)
-
-Saya senang mempelajari teknologi baru dan membangun berbagai proyek untuk meningkatkan kemampuan Software Engineering.
-
----
-
-## Teknologi
-
-### Bahasa Pemrograman
-
-- Go
-- Python
-- Java
-- JavaScript
-- PHP
-- SQL
-
-### Framework
-
-- Gin
-- ElysiaJS
-- FastAPI
-- Flask
-- Laravel
-- Spring Boot
-
-### Database
-
-- PostgreSQL
-- MySQL
-- SQLite
-
-### Tools
-
-- Docker
-- Git
-- Linux
-- Postman
-- VS Code
-
----
-
-## Sedang Dipelajari
-
-- Distributed System
-- Software Architecture
-- Cloud Computing
-- Kubernetes
-- AI Agent
-- High Performance Backend
-
----
-
-# 🇯🇵 日本語
-
-## 自己紹介
-
-私はバックエンド開発者です。
-スケーラブルなシステムを設計し、ソフトウェアを通じて現実の問題を解決することが好きです。
-
-現在取り組んでいること：
-
-- 🚀 バックエンド開発
-- ⚙️ REST API・マイクロサービス
-- 🐹 Golang
-- 🐍 Python
-- ☕ Java
-- 🗄️ PostgreSQL・MySQL
-- 🤖 AI統合
-- ☁️ クラウド・DevOps（勉強中）
-
-新しい技術を学び、ソフトウェアエンジニアとして成長するために様々なプロジェクトを開発しています。
-
----
-
-## 技術スタック
-
-### プログラミング言語
-
-- Go
-- Python
-- Java
-- JavaScript
-- PHP
-- SQL
-
-### フレームワーク
-
-- Gin
-- ElysiaJS
-- FastAPI
-- Flask
-- Laravel
-- Spring Boot
-
-### データベース
-
-- PostgreSQL
-- MySQL
-- SQLite
-
-### ツール
-
-- Docker
-- Git
-- Linux
-- Postman
-- VS Code
-
----
-
-## 学習中
-
-- 分散システム
-- ソフトウェアアーキテクチャ
-- クラウドコンピューティング
-- Kubernetes
-- AIエージェント
-- 高性能バックエンド
-
----
-
-## Connect with Me
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
-
-⭐ Thanks for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
