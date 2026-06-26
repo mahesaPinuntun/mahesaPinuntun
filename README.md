@@ -8,6 +8,10 @@
   I enjoy building scalable backend systems, designing clean APIs, and exploring AI-powered applications.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;REST+API+Designer+%E2%9A%A1;AI+Integration+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%8C%B1" alt="Typing animation" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -29,26 +33,12 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 <br>
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 <h1 align="center">SKILLS & CAPABILITIES</h1>
 <br>
 <br>
 
 ---
-
 
 ## 🗣️ Languages
 
@@ -57,7 +47,9 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 | ![ID](https://flagcdn.com/20x15/id.png) | **Indonesian** | Native | ██████████ 100% |
 | ![GB](https://flagcdn.com/20x15/gb.png) | **English** | Proficient | ████████░░ 80% |
 | ![JP](https://flagcdn.com/20x15/jp.png) | **Japanese (日本語)** | Learning · On going | ██░░░░░░░░ 20% |
+
 ---
+
 ## 🌐 Socials
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mahesaPinuntun)
@@ -109,17 +101,25 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=mahesaPinuntun&theme=neon&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
 
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=mahesaPinuntun&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 ---
 
@@ -146,13 +146,21 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ## ✍️ Random Dev Quote
 
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
 ## 🔝 Top Contributed Repos
 
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=mahesaPinuntun&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 
