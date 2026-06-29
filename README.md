@@ -20,13 +20,12 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
 
 My primary interests include:
 
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-5C2D91?style=for-the-badge)
-![Database Design](https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cloud & DevOps](https://img.shields.io/badge/Cloud_&_DevOps-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+- ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+- ![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge)
+- ![System Design](https://img.shields.io/badge/System_Design-5C2D91?style=for-the-badge)
+- ![Database Design](https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+- ![Cloud & DevOps](https://img.shields.io/badge/Cloud_%26_DevOps-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 I enjoy learning new technologies, solving challenging problems, and building projects that strengthen my software engineering skills.
 
 ---
