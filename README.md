@@ -50,7 +50,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 | ![JP](https://flagcdn.com/20x15/jp.png) | **Japanese (日本語)** | Learning · On going | ██░░░░░░░░ 20% |
 
 ---
-[![Play Flappy Bird](https://img.shields.io/badge/🐦_Play-Flappy_Bird-4CAF50?style=for-the-badge)](https://mahesaPinuntun.github.io/FlappyBird)
+[![Play Flappy Bird](https://img.shields.io/badge/🐦_Play-Flappy_Bird-4CAF50?style=for-the-badge)](https://mahesapinuntun.github.io/FlappyBird)
 
 ---
 ## 🌐 Socials
