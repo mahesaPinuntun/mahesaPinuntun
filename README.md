@@ -26,6 +26,9 @@ My primary interests include:
 - ![Database Design](https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 - ![Cloud & DevOps](https://img.shields.io/badge/Cloud_%26_DevOps-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<br>
+<br>
 I enjoy learning new technologies, solving challenging problems, and building projects that strengthen my software engineering skills.
 
 ---
