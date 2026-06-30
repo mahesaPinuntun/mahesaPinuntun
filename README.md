@@ -51,59 +51,6 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    background: #0d1117;
-    color: #e6edf3;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 48px 20px;
-    min-height: 100vh;
-  }
-  h1 {
-    font-size: 28px;
-    font-weight: 700;
-    margin-bottom: 8px;
-  }
-  p.subtitle {
-    color: #8b949e;
-    font-size: 15px;
-    margin-bottom: 32px;
-  }
-  .game-frame {
-    border-radius: 16px;
-    overflow: hidden;
-    border: 1px solid #30363d;
-    box-shadow: 0 8px 30px rgba(0,0,0,0.4);
-  }
-  iframe {
-    display: block;
-    width: 360px;
-    height: 540px;
-    border: none;
-  }
-  .links {
-    margin-top: 24px;
-    display: flex;
-    gap: 12px;
-  }
-  .links a {
-    color: #58a6ff;
-    text-decoration: none;
-    font-size: 14px;
-  }
-  .links a:hover {
-    text-decoration: underline;
-  }
-</style>
-[![Play Flappy Bird](https://img.shields.io/badge/🐦_Play-Flappy_Bird-4CAF50?style=for-the-badge)](https://mahesapinuntun.github.io/FlappyBird)
-<div class="game-frame">
-    <iframe src="https://mahesapinuntun.github.io/FlappyBird/" title="Flappy Bird Game"></iframe>
-  </div>
----
 ## 🌐 Socials
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mahesaPinuntun)
