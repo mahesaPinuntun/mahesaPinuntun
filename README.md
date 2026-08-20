@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mahesa Putra 👋</h1>
+<h1 align="center">Hi there, I'm Mahesa Putra </h1>
 
 <p align="center">
   <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a backend developer passionate about creating reliable, maintainable, and scalable software.
 
@@ -41,7 +41,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 🗣️ Languages
+## Languages
 
 | Flag | Language | Level | Progress |
 |------|----------|-------|----------|
@@ -51,7 +51,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 🌐 Socials
+## Socials
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mahesaPinuntun)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mahesaPinuntun)
@@ -61,7 +61,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 🏛️ Architecture & Paradigms
+## Architecture & Paradigms
 
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SOAP](https://img.shields.io/badge/SOAP-0052CC?style=for-the-badge&logo=apache&logoColor=white)
@@ -69,7 +69,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -102,7 +102,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -116,7 +116,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -126,7 +126,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - SOAP-API
 - GraphQL API
 - System Design
@@ -136,7 +136,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Build production-ready backend services
 - Contribute to open-source projects
@@ -146,7 +146,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -156,7 +156,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 🔝 Top Contributed Repos
+## Top Contributed Repos
 
 <div align="center">
 
@@ -166,7 +166,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: [github.com/mahesaPinuntun](https://github.com/mahesaPinuntun)
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
@@ -175,7 +175,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 ---
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  Thanks for visiting my profile!
 </p>
 
 <p align="center">
