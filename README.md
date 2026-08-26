@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mahesa Putra </h1>
+<h1 align="center">Mahesa</h1>
 
 <p align="center">
   <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
