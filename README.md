@@ -41,7 +41,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## Languages
+## Communication Languages
 
 | Flag | Language | Level | Progress |
 |------|----------|-------|----------|
