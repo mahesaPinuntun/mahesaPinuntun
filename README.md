@@ -47,7 +47,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 |------|----------|-------|----------|
 | ![ID](https://flagcdn.com/20x15/id.png) | **Indonesian** | Native | ██████████ 100% |
 | ![GB](https://flagcdn.com/20x15/gb.png) | **English** | Proficient | ████████░░ 80% |
-| ![JP](https://flagcdn.com/20x15/jp.png) | **Japanese (日本語)** | Learning · On going | ██░░░░░░░░ 20% |
+| ![JP](https://flagcdn.com/20x15/jp.png) | **日本語** | Learning · On going | ██░░░░░░░░ 20% |
 
 ---
 
