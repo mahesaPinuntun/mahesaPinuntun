@@ -117,13 +117,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## GitHub Trophies
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=mahesaPinuntun&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 
 ---
 
@@ -158,20 +152,13 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ---
 
-## Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=mahesaPinuntun&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
 ## Connect With Me
 
 - GitHub: [github.com/mahesaPinuntun](https://github.com/mahesaPinuntun)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mahesa-putra-036528284/))
 - Email: [mahesa.crafter@gmail.com](mailto:mahesa.crafter@gmail.com)
 
 ---
