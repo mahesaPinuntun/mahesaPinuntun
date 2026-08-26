@@ -125,6 +125,7 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 
 ## Currently Learning
 - SOAP-API
+- Micro-Services
 - GraphQL API
 - System Design
 - Project Deployment
