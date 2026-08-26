@@ -152,16 +152,6 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 ---
 
 
----
-
-## Connect With Me
-
-- GitHub: [github.com/mahesaPinuntun](https://github.com/mahesaPinuntun)
-- LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mahesa-putra-036528284/))
-- Email: [mahesa.crafter@gmail.com](mailto:mahesa.crafter@gmail.com)
-
----
-
 <p align="center">
   Thanks for visiting my profile!
 </p>
