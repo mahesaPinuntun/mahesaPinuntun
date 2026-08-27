@@ -8,10 +8,6 @@
   I enjoy building scalable backend systems, designing clean APIs, and exploring AI-powered applications.
 </p>
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;REST+API+Designer+%E2%9A%A1;AI+Integration+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%8C%B1" alt="Typing animation" />
-</p>
-
 
 
 ## About Me
