@@ -7,7 +7,7 @@
 <p align="center">
   I enjoy building scalable backend systems, designing clean APIs, and exploring AI-powered applications.
 </p>
----
+
 
 
 ## About Me
@@ -29,6 +29,8 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 <br>
 <br>
 ---
+
+
 ## Communication Languages
 
 | Flag | Language | Level | Progress |
