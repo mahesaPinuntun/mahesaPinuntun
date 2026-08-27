@@ -33,14 +33,6 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 ---
 <br>
 <br>
-
-<br>
-<h1 align="center">SKILLS & CAPABILITIES</h1>
-<br>
-<br>
-
----
-
 ## Communication Languages
 
 | Flag | Language | Level | Progress |
@@ -50,6 +42,14 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 | ![JP](https://flagcdn.com/20x15/jp.png) | **日本語** | Learning · On going | ██░░░░░░░░ 20% |
 
 ---
+<br>
+<h1 align="center">SKILLS & CAPABILITIES</h1>
+<br>
+<br>
+
+---
+
+
 
 ## Socials
 
