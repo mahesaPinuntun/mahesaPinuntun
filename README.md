@@ -30,9 +30,9 @@ My primary interests include:
 <br>
 I enjoy learning new technologies, solving challenging problems, and building projects that strengthen my software engineering skills.
 
+<br>
+<br>
 ---
-<br>
-<br>
 ## Communication Languages
 
 | Flag | Language | Level | Progress |
