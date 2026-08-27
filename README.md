@@ -24,6 +24,15 @@ My primary interests include:
 
 <br>
 <br>
+
+
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesa-putra-036528284/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bXUeTPy8qa)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa.crafter@gmail.com)
+---
+
 I enjoy learning new technologies, solving challenging problems, and building projects that strengthen my software engineering skills.
 
 <br>
@@ -44,12 +53,6 @@ I enjoy learning new technologies, solving challenging problems, and building pr
 <br>
 
 
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesa-putra-036528284/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bXUeTPy8qa)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa.crafter@gmail.com)
----
 
 
 
