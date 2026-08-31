@@ -11,7 +11,7 @@
 <br>
 
 ## About Me
-
+---
 I'm a backend developer passionate about creating reliable, maintainable, and scalable software
 ---
 I enjoy learning new technologies, solving challenging problems, and building projects that strengthen my software engineering skills.
