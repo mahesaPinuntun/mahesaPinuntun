@@ -4,7 +4,7 @@
   <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
 </p>
 
-<p align="center">
+<p align="left">
   I enjoy building scalable backend systems, designing clean APIs, and exploring AI-powered applications.
 </p>
 
