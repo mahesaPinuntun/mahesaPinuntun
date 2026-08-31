@@ -1,4 +1,4 @@
-<h1 align="center">ESER • MERN-8008135</h1>
+<h1 align="center">ESA • MERN-8008135</h1>
 
 <p align="center">
   <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
