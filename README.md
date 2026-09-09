@@ -1,4 +1,4 @@
-<h1 align="center">エサ　|　ESA</h1>
+<h1 align="center">エサ　•　ESA</h1>
 
 <p align="center">
   <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
