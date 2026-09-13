@@ -35,6 +35,10 @@
   </picture>
 </p>
 
+<p align="center">
+  <video src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/.github/assets/csmgirllight.mp4" width="100%" autoplay loop muted playsinline></video>
+</p>
+
 ---
 
 <h2 align="center">🌍 Communication Languages</h2>
