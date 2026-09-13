@@ -15,6 +15,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       # 1. Generate Snake SVG
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
@@ -29,9 +32,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          outputs: dist/pacman.svg
 
-      # 3. Push kedua hasil SVG secara bersamaan ke branch output
+      # 3. Push semua file ke branch output
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
