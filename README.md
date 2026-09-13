@@ -97,6 +97,18 @@
 
 ---
 
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/github-snake.svg">
+    <img alt="github snake" src="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
 <h2 align="center">🎯 Current Focus</h2>
 
 <div align="center">
