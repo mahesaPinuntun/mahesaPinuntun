@@ -32,7 +32,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/pacman.svg
+          games: 'pacman'
 
       # 3. Push semua file ke branch output
       - name: Push to output branch
