@@ -24,6 +24,7 @@
 </p>
 
 ---
+
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
@@ -43,6 +44,8 @@
     <img alt="github pacman" src="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman.svg">
   </picture>
 </p>
+
+
 ---
 <h2 align="center">🌍 Communication Languages</h2>
 
