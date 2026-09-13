@@ -39,14 +39,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman.svg">
-    <img alt="github pacman" src="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman-contribution-graph.svg">
+    <img alt="github pacman" src="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
-
 ---
+
 <h2 align="center">🌍 Communication Languages</h2>
 
 <div align="center">
