@@ -25,7 +25,6 @@
 
 ---
 
-
 <h2 align="center">GitHub Contribution </h2>
 
 <p align="center">
@@ -35,8 +34,10 @@
   </picture>
 </p>
 
+
+
 <p align="center">
-  <video src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/.github/assets/csmgirllight.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/csmgirllight-ezgif.com-video-to-gif-converter.gif" width="100%" alt="Anime Banner">
 </p>
 
 ---
