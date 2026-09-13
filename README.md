@@ -4,176 +4,120 @@
   <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
 </p>
 
-
-  
-
-
-<br>
-
-## About Me
-
-<p align="left">
-I'm a backend developer passionate about creating reliable, maintainable, and scalable software
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahesa-putra-036528284/"><img src="https://img.shields.io/badge/-%230A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtMC4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaDAuMDQ2YzAuNDc3LTAuOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDM2Yy0xLjE0NCAwLTIuMDYzLTAuOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzggMC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQgMC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0wLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMwLjc5MiAwIDAgMC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcgMC43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAwLjc3NCAyMy4yIDAgMjIuMjIyIDBoMC4wMDN6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+&logoColor=white" width="85" alt="LinkedIn"></a> &nbsp;
+  <a href="https://discord.gg/bXUeTPy8qa"><img src="https://img.shields.io/badge/%20-5865F2?style=flat&logo=discord&logoColor=white" width="85" alt="Discord"></a> &nbsp;
+  <a href="mailto:mahesa.crafter@gmail.com"><img src="https://img.shields.io/badge/%20-EA4335?style=flat&logo=gmail&logoColor=white" width="85" alt="Email"></a>
 </p>
 
-<p align="left">
-I enjoy learning new technologies, solving challenging problems, and building projects that strengthen my software engypruineering skills.
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  I'm a backend developer passionate about creating reliable, maintainable, and scalable software. I enjoy learning new technologies, solving challenging problems, designing clean APIs, and exploring AI-powered applications to strengthen my software engineering skills.
 </p>
 
-<p align="left">
-I enjoy building scalable backend systems, designing clean APIs, and exploring AI-powered applications.
-
+<p align="center">
+  <b>Primary Interests:</b><br>
+  🔌 REST API & System Design • 🗄️ Database Architecture • 🤖 AI Integration
 </p>
-<br>
-
-My primary interests include:
-
-- ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-- ![System Design](https://img.shields.io/badge/System_Design-5C2D91?style=for-the-badge)
-- ![Database Design](https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-
-<br>
-<br>
-
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesa-putra-036528284/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bXUeTPy8qa)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahesa.crafter@gmail.com)
-
-<br>
 
 ---
 
-
-## Communication Languages
-
-| Flag | Language | Level | Progress |
-|------|----------|-------|----------|
-| ![ID](https://flagcdn.com/20x15/id.png) | **Indonesian** | Native | ██████████ 100% |
-| ![GB](https://flagcdn.com/20x15/gb.png) | **English** | Proficient | ████████░░ 80% |
-| ![JP](https://flagcdn.com/20x15/jp.png) | **日本語** | Learning · On going | ██░░░░░░░░ 20% |
-
----
-<br>
-
-
-
-
-
-<h1 align="center">SKILLS & CAPABILITIES</h1>
-<br>
-<br>
-
----
-
-
-## Architecture & Paradigms
-
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-0052CC?style=for-the-badge&logo=apache&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-%23007ACC.svg?style=for-the-badge&logo=blueprint&logoColor=white)
-
----
-
-## Tech Stack
-
-### Languages
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Deployments
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Version Controls
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## GitHub Stats
+<h2 align="center">🌍 Communication Languages</h2>
 
 <div align="center">
 
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Flag & Language | Level |
+| :--- | :--- |
+| ![ID](https://flagcdn.com/20x15/id.png) **Indonesian** | Native |
+| ![GB](https://flagcdn.com/20x15/gb.png) **English** | Proficient |
+| ![JP](https://flagcdn.com/20x15/jp.png) **日本語 (Japanese)** | Learning |
 
 </div>
 
 ---
 
+<h2 align="center">🛠️ Skills & Tech Stack</h2>
 
+<h3 align="center">Architecture & Paradigms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi&logoColor=white" width="135" alt="REST API">
+  <img src="https://img.shields.io/badge/SOAP-0052CC?style=flat&logo=apache&logoColor=white" width="98" alt="SOAP">
+  <img src="https://img.shields.io/badge/MVC-007ACC?style=flat&logo=blueprint&logoColor=white" width="88" alt="MVC">
+  <img src="https://img.shields.io/badge/Microservices-008C72?style=flat&logo=linux&logoColor=white" width="180" alt="Microservices">
+</p>
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-00ADD8?style=flat&logo=go&logoColor=white" width="85" alt="Go" title="Go" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-3776AB?style=flat&logo=python&logoColor=white" width="85" alt="Python" title="Python" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-ED8B00?style=flat&logo=openjdk&logoColor=white" width="85" alt="Java" title="Java" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-F7DF1E?style=flat&logo=javascript&logoColor=black" width="85" alt="JavaScript" title="JavaScript" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-339933?style=flat&logo=nodedotjs&logoColor=white" width="85" alt="NodeJS" title="NodeJS" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-777BB4?style=flat&logo=php&logoColor=white" width="85" alt="PHP" title="PHP" />
+</p>
+
+<h3 align="center">Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=express&logoColor=white" width="85" alt="Express.js" title="Express.js" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=flask&logoColor=white" width="85" alt="Flask" title="Flask" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-FF2D20?style=flat&logo=laravel&logoColor=white" width="85" alt="Laravel" title="Laravel" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-EF4223?style=flat&logo=codeigniter&logoColor=white" width="85" alt="CodeIgniter" title="CodeIgniter" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-4FC08D?style=flat&logo=vuedotjs&logoColor=white" width="85" alt="Vue.js" title="Vue.js" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-7952B3?style=flat&logo=bootstrap&logoColor=white" width="85" alt="Bootstrap" title="Bootstrap" />
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-4169E1?style=flat&logo=postgresql&logoColor=white" width="85" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-47A248?style=flat&logo=mongodb&logoColor=white" width="85" alt="MongoDB" title="MongoDB" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-4479A1?style=flat&logo=mysql&logoColor=white" width="85" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-003B57?style=flat&logo=sqlite&logoColor=white" width="85" alt="SQLite" title="SQLite" />
+</p>
+
+<h3 align="center">Tools, Deployments & Version Control</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-F05032?style=flat&logo=git&logoColor=white" width="85" alt="Git" title="Git" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-181717?style=flat&logo=github&logoColor=white" width="85" alt="GitHub" title="GitHub" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-2496ED?style=flat&logo=docker&logoColor=white" width="85" alt="Docker" title="Docker" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=vercel&logoColor=white" width="85" alt="Vercel" title="Vercel" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-FF6C37?style=flat&logo=postman&logoColor=white" width="85" alt="Postman" title="Postman" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-F24E1E?style=flat&logo=figma&logoColor=white" width="85" alt="Figma" title="Figma" />
+</p>
 
 ---
 
-## Currently Learning
-- SOAP-API
-- Micro-Services
-- GraphQL API
-- System Design
-- Project Deployment
-- Program Optimizing
-- High-Performance Backend Development
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
-## Current Goals
-
-- Build production-ready backend services
-- Contribute to open-source projects
-- Learn advanced software architecture
-- Explore AI agent development
-- Continuously improve as a software engineer
-
----
-
-## Random Dev Quote
+<h2 align="center">🎯 Current Focus</h2>
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Currently Learning:**<br>
+SOAP-API & GraphQL API • Microservices Architecture • System Design & Project Deployment • High-Performance Backend Optimization
+
+**Goals:**<br>
+Build production-ready backend services • Contribute to open-source projects • Explore AI agent development
 
 </div>
 
 ---
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<br>
 
 <p align="center">
-  Thanks for visiting my profile!
-</p>
-
-<p align="center">
+  Thanks for visiting my profile!<br><br>
   <img src="https://komarev.com/ghpvc/?username=mahesaPinuntun&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-
----
----
----
