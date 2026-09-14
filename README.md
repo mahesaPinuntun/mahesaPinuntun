@@ -13,10 +13,9 @@
   <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/yoru_optimized.gif" width="100%" alt="Anime Banner">
 </p>
 
-<h1 align="center"> 『夜』 </h1>
+<h1 align="center">『夜』</h1>
 
-
----
+<br>
 
 <h2 align="center">About Me</h2>
 
