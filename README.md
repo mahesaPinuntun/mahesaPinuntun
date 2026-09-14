@@ -14,7 +14,7 @@
 </p>
 
 <p align="center" width="100%" >
-  <img width="20%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=3000&color=e500a4&center=true&vcenter=true&width=200&height=80&lines=%E3%80%8E%E5%A4%9C%E3%80%8F" alt="夜" />
+  <img width="40%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=3000&color=e500a4&center=true&vcenter=true&width=200&height=150&lines=%E3%80%8E%E5%A4%9C%E3%80%8F" alt="夜" />
 </p>
 
 <h2 align="center">About Me</h2>
