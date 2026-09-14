@@ -127,8 +127,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+<div align="center" width="100%" height="100">
+  <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
 </div>
 
 <br>
