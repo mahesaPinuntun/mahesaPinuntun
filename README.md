@@ -130,7 +130,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/YoruAsa.jpg" width="100%" alt="Anime Banner">
+  <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/YoruAsaMitaka.jpg" width="100%" alt="Anime Banner">
 </p>
 
 
