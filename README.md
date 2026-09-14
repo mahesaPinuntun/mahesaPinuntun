@@ -130,14 +130,20 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
 </p>
 
 
+
+
 <p align="center">
   <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/asadepthcomp.gif" width="100%" alt="Anime Banner">
 </p>
 
 
+
+
 <p align="center">
   <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/yoruscratchasa.jpg" width="100%" alt="Anime Banner">
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahesaPinuntun&color=9c27b0&style=flat" alt="profile views" />
