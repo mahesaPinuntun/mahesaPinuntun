@@ -135,6 +135,5 @@
 
 
 <p align="center">
-  Thanks for visiting my profile!<br><br>
   <img src="https://komarev.com/ghpvc/?username=mahesaPinuntun&color=9c27b0&style=flat" alt="profile views" />
 </p>
