@@ -16,15 +16,15 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
-<p align="center">
+<p align="left">
   I'm a backend developer passionate about creating reliable, maintainable, and scalable software. I enjoy learning new technologies, solving challenging problems, designing clean APIs, and exploring AI-powered applications to strengthen my software engineering skills.
 </p>
 
-<p align="center">
+<p align="left">
   <b>Primary Interests:</b><br>
-  🔌 REST API & System Design • 🗄️ Database Architecture • 🤖 AI Integration
+  <img src="https://api.iconify.design/tabler/plug.svg?color=%230e75b6" width="18" align="absmiddle"> REST API & System Design • <img src="https://api.iconify.design/tabler/database.svg?color=%230e75b6" width="18" align="absmiddle"> Database Architecture • <img src="https://api.iconify.design/tabler/robot.svg?color=%230e75b6" width="18" align="absmiddle"> AI Integration
 </p>
 
 ---
@@ -38,19 +38,13 @@
   </picture>
 </p>
 
-
-
-
-
 <div align="center" width="100%">
   <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-
-
 ---
 
-<h2 align="left">🛠️ Skills & Tech Stack</h2>
+<h2 align="left"><img src="https://api.iconify.design/tabler/tools.svg?color=%230e75b6" width="28" align="absmiddle"> Skills & Tech Stack</h2>
 
 <h3 align="left">Architecture & Paradigms</h3>
 <p align="left">
@@ -98,11 +92,9 @@
   <img src="https://img.shields.io/badge/%20-F24E1E?style=flat&logo=figma&logoColor=white" width="70" alt="Figma" title="Figma" />
 </p>
 
-
-
 ---
 
-<h2 align="left">🎯 Current Focus</h2>
+<h2 align="left"><img src="https://api.iconify.design/tabler/target-arrow.svg?color=%230e75b6" width="28" align="absmiddle"> Current Focus</h2>
 
 <div align="left">
 
