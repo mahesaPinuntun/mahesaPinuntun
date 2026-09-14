@@ -1,5 +1,7 @@
 <h1 align="center">エサ｜ESA</h1>
 
+---
+
 <p align="center">
   <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/yoru_optimized.gif" width="100%" alt="Anime Banner">
 </p>
@@ -7,9 +9,7 @@
 
 <h1 align="center"> 夜 </h1>
 
-
 ---
-
 
 <p align="center">
   <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
