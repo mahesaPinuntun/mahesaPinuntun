@@ -57,40 +57,40 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/%20-00ADD8?style=flat&logo=go&logoColor=white" width="85" alt="Go" title="Go" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-3776AB?style=flat&logo=python&logoColor=white" width="85" alt="Python" title="Python" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-ED8B00?style=flat&logo=openjdk&logoColor=white" width="85" alt="Java" title="Java" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-F7DF1E?style=flat&logo=javascript&logoColor=black" width="85" alt="JavaScript" title="JavaScript" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-339933?style=flat&logo=nodedotjs&logoColor=white" width="85" alt="NodeJS" title="NodeJS" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-777BB4?style=flat&logo=php&logoColor=white" width="85" alt="PHP" title="PHP" />
+  <img src="https://img.shields.io/badge/%20-00ADD8?style=flat&logo=go&logoColor=white" width="70" alt="Go" title="Go" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-3776AB?style=flat&logo=python&logoColor=white" width="70" alt="Python" title="Python" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-ED8B00?style=flat&logo=openjdk&logoColor=white" width="70" alt="Java" title="Java" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-F7DF1E?style=flat&logo=javascript&logoColor=black" width="70" alt="JavaScript" title="JavaScript" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-339933?style=flat&logo=nodedotjs&logoColor=white" width="70" alt="NodeJS" title="NodeJS" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-777BB4?style=flat&logo=php&logoColor=white" width="70" alt="PHP" title="PHP" />
 </p>
 
 <h3 align="left">Frameworks</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=express&logoColor=white" width="85" alt="Express.js" title="Express.js" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=flask&logoColor=white" width="85" alt="Flask" title="Flask" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-FF2D20?style=flat&logo=laravel&logoColor=white" width="85" alt="Laravel" title="Laravel" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-EF4223?style=flat&logo=codeigniter&logoColor=white" width="85" alt="CodeIgniter" title="CodeIgniter" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-4FC08D?style=flat&logo=vuedotjs&logoColor=white" width="85" alt="Vue.js" title="Vue.js" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-7952B3?style=flat&logo=bootstrap&logoColor=white" width="85" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=express&logoColor=white" width="70" alt="Express.js" title="Express.js" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=flask&logoColor=white" width="70" alt="Flask" title="Flask" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-FF2D20?style=flat&logo=laravel&logoColor=white" width="70" alt="Laravel" title="Laravel" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-EF4223?style=flat&logo=codeigniter&logoColor=white" width="70" alt="CodeIgniter" title="CodeIgniter" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-4FC08D?style=flat&logo=vuedotjs&logoColor=white" width="70" alt="Vue.js" title="Vue.js" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-7952B3?style=flat&logo=bootstrap&logoColor=white" width="70" alt="Bootstrap" title="Bootstrap" />
 </p>
 
 <h3 align="left">Databases</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/%20-4169E1?style=flat&logo=postgresql&logoColor=white" width="85" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-47A248?style=flat&logo=mongodb&logoColor=white" width="85" alt="MongoDB" title="MongoDB" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-4479A1?style=flat&logo=mysql&logoColor=white" width="85" alt="MySQL" title="MySQL" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-003B57?style=flat&logo=sqlite&logoColor=white" width="85" alt="SQLite" title="SQLite" />
+  <img src="https://img.shields.io/badge/%20-4169E1?style=flat&logo=postgresql&logoColor=white" width="70" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-47A248?style=flat&logo=mongodb&logoColor=white" width="70" alt="MongoDB" title="MongoDB" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-4479A1?style=flat&logo=mysql&logoColor=white" width="70" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-003B57?style=flat&logo=sqlite&logoColor=white" width="70" alt="SQLite" title="SQLite" />
 </p>
 
 <h3 align="left">Tools, Deployments & Version Control</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/%20-F05032?style=flat&logo=git&logoColor=white" width="85" alt="Git" title="Git" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-181717?style=flat&logo=github&logoColor=white" width="85" alt="GitHub" title="GitHub" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-2496ED?style=flat&logo=docker&logoColor=white" width="85" alt="Docker" title="Docker" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=vercel&logoColor=white" width="85" alt="Vercel" title="Vercel" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-FF6C37?style=flat&logo=postman&logoColor=white" width="85" alt="Postman" title="Postman" /> &nbsp;
-  <img src="https://img.shields.io/badge/%20-F24E1E?style=flat&logo=figma&logoColor=white" width="85" alt="Figma" title="Figma" />
+  <img src="https://img.shields.io/badge/%20-F05032?style=flat&logo=git&logoColor=white" width="70" alt="Git" title="Git" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-181717?style=flat&logo=github&logoColor=white" width="70" alt="GitHub" title="GitHub" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-2496ED?style=flat&logo=docker&logoColor=white" width="70" alt="Docker" title="Docker" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=vercel&logoColor=white" width="70" alt="Vercel" title="Vercel" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-FF6C37?style=flat&logo=postman&logoColor=white" width="70" alt="Postman" title="Postman" /> &nbsp;
+  <img src="https://img.shields.io/badge/%20-F24E1E?style=flat&logo=figma&logoColor=white" width="70" alt="Figma" title="Figma" />
 </p>
 
 ---
@@ -98,7 +98,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center" width="100%">
-  <img width="80%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
