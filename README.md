@@ -25,9 +25,9 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
 
 <p align="left">
   <b>Primary Interests:</b><br>
-  <img src="https://api.iconify.design/tabler/plug.svg?color=%23e500a4" width="18" align="absmiddle"> REST API & System Design<br>
-  <img src="https://api.iconify.design/tabler/database.svg?color=%23e500a4" width="18" align="absmiddle"> Database Architecture<br>
-  <img src="https://api.iconify.design/tabler/robot.svg?color=%23e500a4" width="18" align="absmiddle"> AI Integration
+  <img src="https://api.iconify.design/tabler/plug.svg?color=%23e500a4" width="25" align="absmiddle"> REST API & System Design<br>
+  <img src="https://api.iconify.design/tabler/database.svg?color=%23e500a4" width="25" align="absmiddle"> Database Architecture<br>
+  <img src="https://api.iconify.design/tabler/robot.svg?color=%23e500a4" width="25" align="absmiddle"> AI Integration
 </p>
 
 ---
@@ -52,9 +52,9 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
 
 ---
 
-<h2 align="center"><img src="https://api.iconify.design/tabler/tools.svg?color=%23e500a4" width="28" align="absmiddle"> Skills & Tech Stack</h2>
+<h2 align="center"><img src="https://api.iconify.design/tabler/tools.svg?color=%23e500a4" width="35" align="absmiddle"> Skills & Tech Stack</h2>
 
-<h3 align="left"><img src="https://api.iconify.design/tabler/sitemap.svg?color=%23e500a4" width="20" align="absmiddle"> Architecture & Paradigms</h3>
+<h3 align="left"><img src="https://api.iconify.design/tabler/sitemap.svg?color=%23e500a4" width="30" align="absmiddle"> Architecture & Paradigms</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi&logoColor=white" width="135" alt="REST API"> &nbsp;
   <img src="https://img.shields.io/badge/SOAP-0052CC?style=flat&logo=apache&logoColor=white" width="98" alt="SOAP"> &nbsp;
@@ -62,7 +62,7 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
   <img src="https://img.shields.io/badge/Microservices-008C72?style=flat&logo=linux&logoColor=white" width="180" alt="Microservices">
 </p>
 
-<h3 align="left"><img src="https://api.iconify.design/tabler/code.svg?color=%23e500a4" width="20" align="absmiddle"> Languages</h3>
+<h3 align="left"><img src="https://api.iconify.design/tabler/code.svg?color=%23e500a4" width="30" align="absmiddle"> Languages</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/%20-00ADD8?style=flat&logo=go&logoColor=white" width="55" alt="Go" title="Go" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-3776AB?style=flat&logo=python&logoColor=white" width="55" alt="Python" title="Python" /> &nbsp;
@@ -72,7 +72,7 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
   <img src="https://img.shields.io/badge/%20-777BB4?style=flat&logo=php&logoColor=white" width="55" alt="PHP" title="PHP" />
 </p>
 
-<h3 align="left"><img src="https://api.iconify.design/tabler/layers-intersect.svg?color=%23e500a4" width="20" align="absmiddle"> Frameworks</h3>
+<h3 align="left"><img src="https://api.iconify.design/tabler/layers-intersect.svg?color=%23e500a4" width="30" align="absmiddle"> Frameworks</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-%23404d59?style=flat&logo=express&logoColor=white" width="55" alt="Express.js" title="Express.js" /> &nbsp;
   <img src="https://img.shields.io/badge/-%23000000?style=flat&logo=flask&logoColor=white" width="55" alt="Flask" title="Flask" /> &nbsp;
@@ -82,7 +82,7 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
   <img src="https://img.shields.io/badge/-%237952B3?style=flat&logo=bootstrap&logoColor=white" width="55" alt="Bootstrap" title="Bootstrap" />
 </p>
 
-<h3 align="left"><img src="https://api.iconify.design/tabler/server.svg?color=%23e500a4" width="20" align="absmiddle"> Databases</h3>
+<h3 align="left"><img src="https://api.iconify.design/tabler/server.svg?color=%23e500a4" width="30" align="absmiddle"> Databases</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/%20-4169E1?style=flat&logo=postgresql&logoColor=white" width="55" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-47A248?style=flat&logo=mongodb&logoColor=white" width="55" alt="MongoDB" title="MongoDB" /> &nbsp;
@@ -90,7 +90,7 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
   <img src="https://img.shields.io/badge/%20-003B57?style=flat&logo=sqlite&logoColor=white" width="55" alt="SQLite" title="SQLite" />
 </p>
 
-<h3 align="left"><img src="https://api.iconify.design/tabler/settings.svg?color=%23e500a4" width="20" align="absmiddle"> Tools, Deployments & Version Control</h3>
+<h3 align="left"><img src="https://api.iconify.design/tabler/settings.svg?color=%23e500a4" width="30" align="absmiddle"> Tools, Deployments & Version Control</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/%20-F05032?style=flat&logo=git&logoColor=white" width="55" alt="Git" title="Git" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-181717?style=flat&logo=github&logoColor=white" width="55" alt="GitHub" title="GitHub" /> &nbsp;
@@ -102,7 +102,7 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
 
 ---
 
-<h2 align="left"><img src="https://api.iconify.design/tabler/target-arrow.svg?color=%23e500a4" width="28" align="absmiddle"> Current Focus</h2>
+<h2 align="center"><img src="https://api.iconify.design/tabler/target-arrow.svg?color=%23e500a4" width="35" align="absmiddle"> Current Focus</h2>
 
 <div align="left">
 
