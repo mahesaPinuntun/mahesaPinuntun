@@ -95,8 +95,8 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<div align="center" width="100%">
+  <img width="80%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -116,7 +116,7 @@ Build production-ready backend services • Contribute to open-source projects �
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random Dev Quote" />
 </div>
 
 <br>
