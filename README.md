@@ -37,22 +37,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/csmgirllight-ezgif.com-video-to-gif-converter.gif" width="100%" alt="Anime Banner">
+  <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/asadepthcomp.gif" width="100%" alt="Anime Banner">
 </p>
 
----
-
-<h2 align="center">🌍 Communication Languages</h2>
-
-<div align="center">
-
-| Flag & Language | Level |
-| :--- | :--- |
-| ![ID](https://flagcdn.com/20x15/id.png) **Indonesian** | Native |
-| ![GB](https://flagcdn.com/20x15/gb.png) **English** | Proficient |
-| ![JP](https://flagcdn.com/20x15/jp.png) **日本語 (Japanese)** | Learning |
-
-</div>
 
 ---
 
