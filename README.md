@@ -1,6 +1,8 @@
 <h1 align="center">エサ｜ESA</h1>
+<p align="center">
+  <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
+</p>
 
----
 
 <p align="center">
   <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/yoru_optimized.gif" width="100%" alt="Anime Banner">
@@ -9,11 +11,7 @@
 
 <h1 align="center"> 夜 </h1>
 
----
 
-<p align="center">
-  <b>Backend Developer</b> • <b>Software Engineer</b> • <b>Continuous Learner</b>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahesa-putra-036528284/"><img src="https://img.shields.io/badge/-%230A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtMC4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaDAuMDQ2YzAuNDc3LTAuOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDM2Yy0xLjE0NCAwLTIuMDYzLTAuOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzggMC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQgMC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0wLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMwLjc5MiAwIDAgMC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcgMC43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAwLjc3NCAyMy4yIDAgMjIuMjIyIDBoMC4wMDN6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+&logoColor=white" width="55" alt="LinkedIn"></a> &nbsp;
