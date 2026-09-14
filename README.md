@@ -52,7 +52,7 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
 
 ---
 
-<h2 align="left"><img src="https://api.iconify.design/tabler/tools.svg?color=%239c27b0" width="28" align="absmiddle"> Skills & Tech Stack</h2>
+<h2 align="center"><img src="https://api.iconify.design/tabler/tools.svg?color=%239c27b0" width="28" align="absmiddle"> Skills & Tech Stack</h2>
 
 <h3 align="left"><img src="https://api.iconify.design/tabler/sitemap.svg?color=%239c27b0" width="20" align="absmiddle"> Architecture & Paradigms</h3>
 <p align="left">
