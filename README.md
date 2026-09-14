@@ -25,7 +25,9 @@
 
 <p align="left">
   <b>Primary Interests:</b><br>
-  <img src="https://api.iconify.design/tabler/plug.svg?color=%239c27b0" width="18" align="absmiddle"> REST API & System Design • <img src="https://api.iconify.design/tabler/database.svg?color=%239c27b0" width="18" align="absmiddle"> Database Architecture • <img src="https://api.iconify.design/tabler/robot.svg?color=%239c27b0" width="18" align="absmiddle"> AI Integration
+  <img src="https://api.iconify.design/tabler/plug.svg?color=%239c27b0" width="18" align="absmiddle"> REST API & System Design<br>
+  <img src="https://api.iconify.design/tabler/database.svg?color=%239c27b0" width="18" align="absmiddle"> Database Architecture<br>
+  <img src="https://api.iconify.design/tabler/robot.svg?color=%239c27b0" width="18" align="absmiddle"> AI Integration
 </p>
 
 ---
