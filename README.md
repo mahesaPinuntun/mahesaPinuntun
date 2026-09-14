@@ -126,12 +126,13 @@
 </div>
 
 ---
-
-<div align="center" width="100%" height="100">
-  <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</div>
-
 <br>
+
+
+<p align="center">
+  <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/YoruAsa.jpg" width="100%" alt="Anime Banner">
+</p>
+
 
 <p align="center">
   Thanks for visiting my profile!<br><br>
