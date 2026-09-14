@@ -43,18 +43,18 @@
 
 ---
 
-<h2 align="center">🛠️ Skills & Tech Stack</h2>
+<h2 align="left">🛠️ Skills & Tech Stack</h2>
 
-<h3 align="center">Architecture & Paradigms</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi&logoColor=white" width="135" alt="REST API">
-  <img src="https://img.shields.io/badge/SOAP-0052CC?style=flat&logo=apache&logoColor=white" width="98" alt="SOAP">
-  <img src="https://img.shields.io/badge/MVC-007ACC?style=flat&logo=blueprint&logoColor=white" width="88" alt="MVC">
+<h3 align="left">Architecture & Paradigms</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi&logoColor=white" width="135" alt="REST API"> &nbsp;
+  <img src="https://img.shields.io/badge/SOAP-0052CC?style=flat&logo=apache&logoColor=white" width="98" alt="SOAP"> &nbsp;
+  <img src="https://img.shields.io/badge/MVC-007ACC?style=flat&logo=blueprint&logoColor=white" width="88" alt="MVC"> &nbsp;
   <img src="https://img.shields.io/badge/Microservices-008C72?style=flat&logo=linux&logoColor=white" width="180" alt="Microservices">
 </p>
 
-<h3 align="center">Languages</h3>
-<p align="center">
+<h3 align="left">Languages</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/%20-00ADD8?style=flat&logo=go&logoColor=white" width="85" alt="Go" title="Go" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-3776AB?style=flat&logo=python&logoColor=white" width="85" alt="Python" title="Python" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-ED8B00?style=flat&logo=openjdk&logoColor=white" width="85" alt="Java" title="Java" /> &nbsp;
@@ -63,8 +63,8 @@
   <img src="https://img.shields.io/badge/%20-777BB4?style=flat&logo=php&logoColor=white" width="85" alt="PHP" title="PHP" />
 </p>
 
-<h3 align="center">Frameworks</h3>
-<p align="center">
+<h3 align="left">Frameworks</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=express&logoColor=white" width="85" alt="Express.js" title="Express.js" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-000000?style=flat&logo=flask&logoColor=white" width="85" alt="Flask" title="Flask" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-FF2D20?style=flat&logo=laravel&logoColor=white" width="85" alt="Laravel" title="Laravel" /> &nbsp;
@@ -73,16 +73,16 @@
   <img src="https://img.shields.io/badge/%20-7952B3?style=flat&logo=bootstrap&logoColor=white" width="85" alt="Bootstrap" title="Bootstrap" />
 </p>
 
-<h3 align="center">Databases</h3>
-<p align="center">
+<h3 align="left">Databases</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/%20-4169E1?style=flat&logo=postgresql&logoColor=white" width="85" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-47A248?style=flat&logo=mongodb&logoColor=white" width="85" alt="MongoDB" title="MongoDB" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-4479A1?style=flat&logo=mysql&logoColor=white" width="85" alt="MySQL" title="MySQL" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-003B57?style=flat&logo=sqlite&logoColor=white" width="85" alt="SQLite" title="SQLite" />
 </p>
 
-<h3 align="center">Tools, Deployments & Version Control</h3>
-<p align="center">
+<h3 align="left">Tools, Deployments & Version Control</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/%20-F05032?style=flat&logo=git&logoColor=white" width="85" alt="Git" title="Git" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-181717?style=flat&logo=github&logoColor=white" width="85" alt="GitHub" title="GitHub" /> &nbsp;
   <img src="https://img.shields.io/badge/%20-2496ED?style=flat&logo=docker&logoColor=white" width="85" alt="Docker" title="Docker" /> &nbsp;
@@ -101,9 +101,9 @@
 
 ---
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="left">🎯 Current Focus</h2>
 
-<div align="center">
+<div align="left">
 
 **Currently Learning:**<br>
 SOAP-API & GraphQL API • Microservices Architecture • System Design & Project Deployment • High-Performance Backend Optimization
