@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/asadepthcomp.gif" width="100%" alt="Anime Banner">
+  <img src="https://github.com/mahesaPinuntun/mahesaPinuntun/raw/main/yoru_optimized.gif" width="100%" alt="Anime Banner">
 </p>
 
 
