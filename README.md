@@ -36,7 +36,7 @@ I'm a fullstack developer passionate about creating reliable, maintainable, and 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman-contribution-graph.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman-contribution-graph-dark.svg?v=1">
     <img width="100%" alt="github pacman" src="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman-contribution-graph.svg?v=1">
   </picture>
 </p>
