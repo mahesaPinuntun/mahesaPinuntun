@@ -37,17 +37,17 @@ I'm a fullstack developer passionate about creating reliable, maintainable, and 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman-contribution-graph.svg?v=1">
-    <img alt="github pacman" src="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman-contribution-graph.svg?v=1">
+    <img width="100%" alt="github pacman" src="https://raw.githubusercontent.com/mahesaPinuntun/mahesaPinuntun/output/pacman-contribution-graph.svg?v=1">
   </picture>
 </p>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=800" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahesaPinuntun&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=600" alt="Top Languages" />
 </div>
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.shion.dev/api?username=mahesaPinuntun&show_icons=true&hide_border=false&count_private=true&card_width=750&title_color=e500a4&icon_color=e500a4&text_color=ffffff&bg_color=0d1117&border_color=e500a4" alt="GitHub Stats" />
+  <img width="100%" src="https://github-readme-stats.shion.dev/api?username=mahesaPinuntun&show_icons=true&hide_border=false&count_private=true&card_width=600&title_color=e500a4&icon_color=e500a4&text_color=ffffff&bg_color=0d1117&border_color=e500a4" alt="GitHub Stats" />
 </div>
 
 ---
