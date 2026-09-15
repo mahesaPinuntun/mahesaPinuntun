@@ -1,10 +1,9 @@
 name: Generate Pacman Contribution Graph
 
 on:
-  # Jalankan otomatis setiap hari atau setiap push
   schedule:
-    - cron: "0 0 * * *" # Berjalan setiap jam 12 malam UTC
-  workflow_dispatch: # Memungkinkan tombol "Run workflow" manual di tab Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,8 +11,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # PERHATIAN: Izin write ini sangat penting agar action bisa menyimpan file SVG ke repository
     permissions:
       contents: write
 
@@ -22,7 +19,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Pacman Animation
-        uses: abozanona/pacman-contribution-graph@v1
+        uses: abozanona/pacman-contribution-graph@main # Menggunakan branch main alih-alih tag v1 yang hilang
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
