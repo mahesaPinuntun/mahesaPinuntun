@@ -20,7 +20,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="left">
-I'm a backend developer passionate about creating reliable, maintainable, and scalable software. I enjoy learning new technologies, solving challenging problems, designing clean APIs, and exploring AI-powered applications to strengthen my software engineering skills. I also developed open source projects for everyone to use and customize as they wish
+I'm a fullstack developer passionate about creating reliable, maintainable, and scalable server side program as well as easy to use client side app. I enjoy learning new technologies, solving challenging problems, designing clean APIs, and AI integration applications to strengthen my developing skills. I also developed open source projects for everyone to use and customize as they wish with well documented technical explanation 
 </p>
 
 <p align="left">
