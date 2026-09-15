@@ -1,26 +1,40 @@
-name: Generate Pacman
+name: Generate Pacman Contribution Graph
 
 on:
+  # Jalankan otomatis setiap hari atau setiap push
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Berjalan setiap jam 12 malam UTC
+  workflow_dispatch: # Memungkinkan tombol "Run workflow" manual di tab Actions
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # PERHATIAN: Izin write ini sangat penting agar action bisa menyimpan file SVG ke repository
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pacman Animation
+        uses: abozanona/pacman-contribution-graph@v1
         with:
           github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+          output_file: 'pacman-contribution-graph.svg'
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          commit_message: "Update pacman contribution graph"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
