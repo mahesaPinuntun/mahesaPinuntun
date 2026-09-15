@@ -23,15 +23,12 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Menyesuaikan tema latar belakang (bisa diubah sesuai selera: transparent, hex color, dll)
-          # Action ini secara default menyesuaikan struktur SVG, namun kita pastikan direktori outputnya benar
 
-      # Memperbarui ghaction-github-pages ke versi v4 dan memperbaiki direktori build
       - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist # Diubah ke dist karena file SVG ter-generate di folder ini
           committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           commit_message: "Update pacman contribution graph"
