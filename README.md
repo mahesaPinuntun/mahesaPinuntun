@@ -47,7 +47,7 @@ I'm a backend developer passionate about creating reliable, maintainable, and sc
 <br>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.shion.dev/api?username=mahesaPinuntun&theme=dracula&show_icons=true&hide_border=false&count_private=true&card_width=850" alt="GitHub Stats" />
+  <img width="100%" src="https://github-readme-stats.shion.dev/api?username=mahesaPinuntun&show_icons=true&hide_border=false&count_private=true&card_width=750&title_color=e500a4&icon_color=e500a4&text_color=ffffff&bg_color=0d1117&border_color=e500a4" alt="GitHub Stats" />
 </div>
 
 ---
